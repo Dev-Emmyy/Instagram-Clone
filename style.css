@@ -175,4 +175,5 @@ body {
 .container_right .footer p {
     color: gray;
     font-size: .8rem;
+    font-weight: lighter;
 }
